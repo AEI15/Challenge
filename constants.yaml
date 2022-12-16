@@ -1,0 +1,11 @@
+Emag:
+  tv_audio_video_photo: //li[@data-id="190"]
+  TVs: //a[@data-id="5470"]
+  dropdown_order: //div[@class="sort-control-btn-dropdown hidden-xs"]
+  highest_price: //*[text()[.="Pret descrescator"]]
+  first_displayed_element: //*[@id="card_grid"]/div[2]/div/div/div[3]/a/div/img
+  second_displayed_element: //*[@id="card_grid"]/div[3]/div/div/div[3]/a/div/img
+  add_to_cart_first_element: //*[@id="main-container"]/section[3]/div/div[1]/div[2]/div/div[2]/div[2]/form/div/div[3]/div[2]/div[1]/button
+  add_to_cart_second_element: //*[@id="main-container"]/section[3]/div/div[1]/div[2]/div/div[2]/div[2]/form/div/div[3]/div[3]/div[1]/button
+  shopping_cart_items: //span[@class="jewel jewel-danger"]
+
